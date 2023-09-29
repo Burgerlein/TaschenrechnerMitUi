@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3f97333_002Dfef4_002D4000_002Db363_002D9036272a48bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DisplayNumberTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::39AEB994-3020-4F77-BD24-6C62A4543053::net7.0-windows::TaschenrechnerTests.Tests.AdditionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::39AEB994-3020-4F77-BD24-6C62A4543053::net7.0-windows::TaschenrechnerTests.Tests.SubtraktionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::39AEB994-3020-4F77-BD24-6C62A4543053::net7.0-windows::TaschenrechnerTests.Tests.SubtractionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::39AEB994-3020-4F77-BD24-6C62A4543053::net7.0-windows::TaschenrechnerTests.Tests.DivisionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::39AEB994-3020-4F77-BD24-6C62A4543053::net7.0-windows::TaschenrechnerTests.Tests.MultiplicationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
